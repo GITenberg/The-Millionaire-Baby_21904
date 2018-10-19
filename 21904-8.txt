@@ -18,6 +18,7 @@ Author: Anna Katharine Green
 
 
 Release Date: June 22, 2007  [eBook #21904]
+Last Updated: September 16, 2016
 
 Language: English
 
@@ -327,7 +328,7 @@ cabled to Mr. Ocumpaugh.
 
 The night and another day passed, bringing but little relief to the
 situation. Not an eye had as yet been closed in Homewood, nor had the
-search, ceased for an instant. Not an inch of the great estate had been
+search ceased for an instant. Not an inch of the great estate had been
 overlooked, yet men could still be seen beating the bushes and peering
 into all the secluded spots which once had formed the charm of this
 delightful place. As on the land, so on the river. All the waters in the
@@ -1194,7 +1195,7 @@ itself. That certainly merited a much closer inspection than I had been
 able to give it under Miss Graham's eye.
 
 It was not quite a new place to me, nor was I so ignorant of its history
-(and it had a history as I had appeared to be in my conversation with
+(and it had a history) as I had appeared to be in my conversation with
 Miss Graham). Originally it had been a stabling place for horses; and
 tradition said that it had once harbored for a week the horse of General
 Washington. This was when the house on the knoll above had been the seat
@@ -4771,7 +4772,7 @@ What I said in reply is not germane to this story.
 
 After being assured by a few more discreet inquiries in some other
 perfectly safe quarters that Miss Graham's opinion of Mr. Rathbone was
-shared by those who beat knew him, I returned to the one spot most
+shared by those who best knew him, I returned to the one spot most
 likely to afford me a clue to, if no explanation of, this elusive
 mystery.
 
@@ -5546,7 +5547,7 @@ was cold now? Who could see anything but a feeling heart in this woman,
 beautiful beyond all precedent in her passion and her woe?
 
 "It is--it was--a secret. I have to confess to the abnormal. The child
-did not love me; has never loved me. Lavish as I, have been in my
+did not love me; has never loved me. Lavish as I have been in my
 affection and caresses, she has never done aught but endure them. Though
 she believes me her own mother, she has shrunk from me with all the
 might of her nature from the very first. It was God's punishment for the
@@ -6653,7 +6654,7 @@ expecting reason in a mother reeling under such a vital shock.
 But the cooler, more subtile and less guilty Mrs. Carew had some
 judgment left, if her friend had lost hers. Her own part had been well
 played. She had brought her nephew home without giving any one, not even
-the maid she had provided herself with, in New York, an opportunity to
+the maid she had provided herself with in New York, an opportunity to
 see his face; and she had passed him over, dressed in quite different
 clothes, to the couple in the farm-wagon, who had carried him, as she
 supposed, safely out of reach and any possibility of discovery. You see
